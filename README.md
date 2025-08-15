@@ -38,7 +38,7 @@ Este espaço documenta minha paixão pela engenharia de software e meu compromis
 Se você quiser se conectar, colaborar ou tiver alguma dúvida, clique <a href="mailto:mathias.sammer.946@gmail.com">aqui e me envie un e-mail</a> — ou entre em contato pelo <a href="https://www.linkedin.com/in/mathiassammer/">LinkedIn</a>. Estou sempre aberto a boas conversas e oportunidades interessantes.
 
 <h2> 🛠 &nbsp;Pilha de tecnologia</h2>
-<h3>💻 &nbsp;Front-end: [Estudando]</h3>
+<h3>💻 &nbsp;Front-end:</h3>
 <p>Estudando no momento</p>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -57,7 +57,7 @@ Se você quiser se conectar, colaborar ou tiver alguma dúvida, clique <a href="
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-<p>*Aperfeiçoando e aprendendo*</p>
+<p>Aperfeiçoando e aprendendo</p>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
